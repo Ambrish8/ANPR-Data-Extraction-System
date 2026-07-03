@@ -1,1 +1,11 @@
-
+easyocr
+transformers
+torch
+torchvision
+ultralytics
+Levenshtein
+pandas
+opencv-python-headless
+numpy
+matplotlib
+Pillow
